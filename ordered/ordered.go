@@ -1,4 +1,4 @@
-package goslice_sort
+package ordered
 
 import (
 	"github.com/gokch/goslice"

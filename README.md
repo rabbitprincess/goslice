@@ -1,7 +1,10 @@
 # goslice
 slice tricks utility
 
-## Method
+## Methods
+
+
+### slice
 - [x] Len
 - [x] ToSlice
 - [x] Extend
@@ -32,3 +35,12 @@ slice tricks utility
 - [x] Contains
 - [x] Each
 - [x] ForEach
+### ordered
+- [x] Sort
+- [x] SortFunc
+- [x] IsSorted
+- [x] Search
+- [x] SearchFunc
+
+
+
