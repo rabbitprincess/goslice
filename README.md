@@ -1,0 +1,2 @@
+# goslice
+slice tricks utility
